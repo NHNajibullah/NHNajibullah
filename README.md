@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @NHNajibullah
 - 👀 I’m interested in Web Development (PHP, JavaScript, TypeScript, Golang, etc.)
 - 🌱 I’m currently learning TypeScript
+- ⚡My favorite stack is Laravel, MySQL, React, Express and Next.js
